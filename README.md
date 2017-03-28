@@ -16,4 +16,4 @@ $ java -jar mhacksdroneproject-1.0-SNAPSHOT-jar-with-dependencies.jar
 
 5. Now you can play around with our product!
 
-If you want to check the documentation for the project, check our [documentation](https://devpost.com/software/dronesnet)
+If you want to check the documentation for the project, check our [documentation](https://devpost.com/software/dronesnet)!
