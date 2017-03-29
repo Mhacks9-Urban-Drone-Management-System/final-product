@@ -12,7 +12,7 @@
 $ java -jar mhacksdroneproject-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 
-4. Now go to your browser and go to  ```0.0.0.0:4567```
+4. Now open your browser and go to  ```0.0.0.0:4567```
 
 5. Now you can play around with our product!
 
